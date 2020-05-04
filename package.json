@@ -1,0 +1,26 @@
+{
+  "name": "work-calculation",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "runweb": "pm2 start start.js --name=工时计算手机端",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "ant-design-vue": "1.5.4",
+    "axios": "0.19.2",
+    "connect": "3.7.0",
+    "core-js": "3.6.4",
+    "pm2": "4.4.0",
+    "serve-static": "1.14.1",
+    "vue": "2.6.11",
+    "vue-router": "3.1.6",
+    "vuex": "3.1.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "4.3.0",
+    "@vue/cli-service": "4.3.0",
+    "vue-template-compiler": "2.6.11"
+  }
+}
