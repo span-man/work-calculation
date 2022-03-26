@@ -1537,7 +1537,7 @@ ansi-styles@^4.0.0, ansi-styles@^4.1.0:
     "@types/color-name" "^1.1.1"
     color-convert "^2.0.1"
 
-ant-design-vue@^1.5.4:
+ant-design-vue@1.5.4:
   version "1.5.4"
   resolved "https://registry.yarnpkg.com/ant-design-vue/-/ant-design-vue-1.5.4.tgz#428473de9f6b22df63cacdfe07d5096258f871a9"
   integrity sha512-NTM+YD/pfr6J3kjnew4gN8EP5uLp4bV3edof5MLnJB3lCaFfJRCxBIkL05Zx+Hx13chzdnhMSEJrTPoZFiMNyw==
@@ -5432,9 +5432,9 @@ minimatch@3.0.4, minimatch@^3.0.4:
     brace-expansion "^1.1.7"
 
 minimist@^1.2.0, minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.npm.taobao.org/minimist/download/minimist-1.2.5.tgz?cache=0&sync_timestamp=1584051606680&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fminimist%2Fdownload%2Fminimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha1-Z9ZgFLZqaoqqDAg8X9WN9OTpdgI=
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
+  integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
 
 minipass-collect@^1.0.2:
   version "1.0.2"
@@ -6343,10 +6343,10 @@ pm2-multimeter@^0.1.2:
   dependencies:
     charm "~0.1.1"
 
-pm2@^4.4.0:
+pm2@4.4.0:
   version "4.4.0"
-  resolved "https://registry.npm.taobao.org/pm2/download/pm2-4.4.0.tgz?cache=0&sync_timestamp=1587674710695&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fpm2%2Fdownload%2Fpm2-4.4.0.tgz#85ad86da2d3c6618881714e885c85a96d77ee379"
-  integrity sha1-ha2G2i08ZhiIFxTohchaltd+43k=
+  resolved "https://registry.yarnpkg.com/pm2/-/pm2-4.4.0.tgz#85ad86da2d3c6618881714e885c85a96d77ee379"
+  integrity sha512-uEY3ShP5O5d7VBx4r0QhVjWAgjyhazenIl0fhxyVr+aDMWSa3hpD5RpvkGJMiX8z3nDrBBWCSU7TYth1sdbJkA==
   dependencies:
     "@pm2/agent" "~1.0.2"
     "@pm2/io" "~4.3.5"
